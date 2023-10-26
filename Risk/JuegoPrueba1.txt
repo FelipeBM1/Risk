@@ -1,0 +1,50 @@
+Partida de Risk
+
+Jugador: rojo
+Alberta tiene: 3 tropas
+Groenlandia tiene: 4 tropas
+Quebec tiene: 3 tropas
+Argentina tiene: 4 tropas
+Peru tiene: 3 tropas
+Afghanistan tiene: 4 tropas
+Irkutsk tiene: 3 tropas
+Medio Oriente tiene: 4 tropas
+Siberia tiene: 2 tropas
+Congo tiene: 1 tropas
+Madagascar tiene: 1 tropas
+Islandia tiene: 1 tropas
+Europa del Sur tiene: 1 tropas
+Australia Oriental tiene: 1 tropas
+
+Jugador: azul
+America Central tiene: 2 tropas
+Territorio Noroccidental tiene: 2 tropas
+Estados Unidos Occidentales tiene: 2 tropas
+Venezuela tiene: 2 tropas
+China tiene: 2 tropas
+Kamchatka tiene: 2 tropas
+Mongolia tiene: 5 tropas
+Yakutsk tiene: 7 tropas
+Africa Oriental tiene: 3 tropas
+Africa del Norte tiene: 2 tropas
+Europa del Norte tiene: 2 tropas
+Ucrania tiene: 2 tropas
+Indonesia tiene: 1 tropas
+Australia Occidental tiene: 1 tropas
+
+Jugador: amarillo
+Alaska tiene: 2 tropas
+Estados Unidos Orientales tiene: 2 tropas
+Ontario tiene: 2 tropas
+Brasil tiene: 2 tropas
+India tiene: 2 tropas
+Japon tiene: 2 tropas
+Siam tiene: 6 tropas
+Ural tiene: 5 tropas
+Egipto tiene: 3 tropas
+Africa del Sur tiene: 2 tropas
+Gran Bretana tiene: 2 tropas
+Escandinavia tiene: 2 tropas
+Europa Occidental tiene: 2 tropas
+Nueva Guinea tiene: 1 tropas
+
